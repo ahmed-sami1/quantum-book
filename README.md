@@ -8,5 +8,9 @@ This is a Java-based solution for the Fawry N² Dev Slope #10 Challenge.
 - Shipping and mailing simulation
 - Follows OOP principles and is easily extensible
 
+## 📸 Screenshot
+
+![Sample Output](Screenshot 2025-07-08205804.png)
+
 ## Author
 Ahmed Samy
