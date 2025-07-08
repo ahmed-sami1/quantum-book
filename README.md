@@ -10,7 +10,7 @@ This is a Java-based solution for the Fawry N² Dev Slope #10 Challenge.
 
 ## 📸 Screenshot
 
-![Sample Output](Screenshot 2025-07-08205804.jpg)
+![Sample Output](output.jpg)
 
 ## Author
 Ahmed Samy
